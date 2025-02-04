@@ -18,8 +18,8 @@ console.log(List)
     return(
         <div>
             <div className="bg-[url('../public/Images/hero-image.jpg')] lg:h-[100vh]">
-                <h1>Peace, nature, dream</h1>
-                <h4>Find and book a great experience.</h4>
+                <h1 className="text-black text-6xl lg:float-start mt-20 ml-20">Peace, nature, dream</h1>
+                <h4 className="text-black text-3xl lg:float-start mt-40">Find and book a great experience.</h4>
             </div>
             <h1 className="text-blue-300">
                 Hello red
