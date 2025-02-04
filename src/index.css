@@ -14,3 +14,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.cont{
+  background-image: url(../public/Images/hero-image.jpg);
+  height: 100vh;
+}

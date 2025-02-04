@@ -17,6 +17,9 @@ export default function Property(){
 console.log(List)
     return(
         <div>
+            <div className="lg:">
+
+            </div>
             <h1 className="text-blue-300">
                 Hello red
             </h1>
